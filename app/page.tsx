@@ -95,7 +95,7 @@ export default function Login() {
                 className="h-4 w-4 rounded border-gray-300 text-gray-900 focus:ring-gray-700"
               />
               <label htmlFor="remember" className="text-sm select-none">
-                Remember me
+                Remember me 
               </label>
             </div>
             <a
